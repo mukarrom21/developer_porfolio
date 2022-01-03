@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+p {text-align: ;}
+.peter_name {color: orange;}
+a {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(252, 175, 161),tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+section {
+    display: flex;
+    padding-right: 6%;
+    margin-bottom: 50px;
+}
+.top-section {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.welcom_div {
+    width: 50%;
+    padding-left: 7%;
+}
+img {width: 100%;}
+
+.Dream_big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
